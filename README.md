@@ -1,6 +1,8 @@
 # alquran
 
-A new Flutter project.
+Flutter Al Quran project.
+Use API FROM https://equran.id
+in this project use Package Dependencie DIO 
 
 ## Getting Started
 
